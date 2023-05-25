@@ -103,4 +103,7 @@ video {
         color: wheat;
         margin-top: 10px
     }
+    .picture{
+      font-size: 4vh;
+    }
 }
